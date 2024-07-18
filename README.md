@@ -19,8 +19,8 @@ Soy un profesional apasionado por la automatización y las pruebas de software. 
 
 
 # Proyecto Principal en el que estoy trabajando
-## [Framework Selenium JUnit 5](https://github.com/zagui-master/Fase-experimental-Framework-Selenium-JUnit-5)
-Este proyecto funciona como una plantilla para configurar un framework de automatización con Selenium WebDriver y JUnit 5.
+## [Zagui](https://github.com/zagui-master/Zagui)
+Este proyecto es un framework de automatización con Selenium WebDriver y JUnit 5 y BDD.
 
 ## Descripción
 Este repositorio contiene una configuración estructurada para la automatización con Selenium WebDriver utilizando JUnit 5. Incluye configuraciones, utilidades y ejemplos de pruebas para ayudarte a comenzar con la automatización de pruebas.
