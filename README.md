@@ -57,27 +57,27 @@
 
 ###
 
-<h5 align="left">● Selenium Integration: Seamlessly interacts with web browsers for automated testing.</h5>
+<h4 align="left">● Selenium Integration: Seamlessly interacts with web browsers for automated testing.</h4>
 
 ###
 
-<h5 align="left">● Cucumber Support: Enables behavior-driven development (BDD) through Cucumber's feature files and step definitions.</h5>
+<h4 align="left">● Cucumber Support: Enables behavior-driven development (BDD) through Cucumber's feature files and step definitions.</h4>
 
 ###
 
-<h5 align="left">● JUnit Compatibility: Integrates with JUnit for robust test execution and reporting.</h5>
+<h4 align="left">● JUnit Compatibility: Integrates with JUnit for robust test execution and reporting.</h4>
 
 ###
 
-<h5 align="left">● Page Object Model (POM): Promotes code reusability and maintainability by modeling web pages as objects.</h5>
+<h4 align="left">● Page Object Model (POM): Promotes code reusability and maintainability by modeling web pages as objects.</h4>
 
 ###
 
-<h5 align="left">● Customized Methods: Provides a library of tailored methods for enhanced web element interaction, making test scripting more efficient.</h5>
+<h4 align="left">● Customized Methods: Provides a library of tailored methods for enhanced web element interaction, making test scripting more efficient.</h4>
 
 ###
 
-<h5 align="left">● Cross-Browser Testing: Supports testing across different web browsers to ensure compatibility.</h5>
+<h4 align="left">● Cross-Browser Testing: Supports testing across different web browsers to ensure compatibility.</h4>
 
 ###
 
