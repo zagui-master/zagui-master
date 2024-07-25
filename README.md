@@ -19,7 +19,7 @@ Soy un profesional apasionado por la automatización y las pruebas de software. 
 
 
 # Proyecto Principal en el que estoy trabajando
-## [Zagui](https://github.com/zagui-master) - Framework
+## [Zagui Test Automation Framework]([https://github.com/zagui-master](https://github.com/Zagui-Framework/Zagui)) 
 Este proyecto es un  framework de automatización de pruebas de software, el cual integra, Selenium WebDriver, JUnit 5 y BDD.
 
 ## Descripción
