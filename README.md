@@ -1,50 +1,100 @@
-<div align="center">
-    <h2>Hola!, Soy Sergio López | Zagui Master</h2>
-   <h3>QA Automation & Software Dev</h3>
+<h1 align="center">Hey 👋 Hi!, I'm Sergio López | Zagui Master</h1>
+
+###
+
+<h2 align="center">QA  Automation & Software Dev</h2>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<h4 align="left">I am a professional specializing in software automation and testing. With extensive experience in developing software test automation frameworks, I am proficient in technologies such as Selenium, BDD, Cucumber, JUnit, Gradle, and Git. My background includes executing manual tests across web and mobile environments.<br><br>In addition to my automation expertise, I possess skills in web development using Figma, JavaScript, HTML, CSS, and Gulp. I am recognized for my ability to research and implement cutting-edge technologies, as well as for my effective communication and collaboration skills, both independently and within teams.</h4>
+
+###
+
+<h2 align="left">My Skills</h2>
+
+###
+
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+
 </div>
 
-## Acerca de mí
-Soy un profesional apasionado por la automatización y las pruebas de software. Tengo experiencia en el desarrollo de frameworks de automatización de pruebas de software utilizando tecnologías como Selenium, BDD, Cucumber, JUnit, Gradle y Git. Mi experiencia incluye la ejecución de pruebas manuales en entornos web y móviles. Además, tengo habilidades en desarrollo web utilizando Figma, JavaScript, HTML, CSS y Gulp. Destaco por mi capacidad para investigar e implementar nuevas tecnologías, así como por mi habilidad para comunicar y colaborar efectivamente, tanto de forma independiente como en equipo.
+###
 
-## Habilidades
-- Java <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-- JavaScript <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-- Selenium WebDriver <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg">
-- Cucumber <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cucumber.svg">
-- JUnit <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/junit.svg">
-- CSS <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-- HTML <img width="24px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+# Main Project - [Zagui Test Automation Frameworkk](https://github.com/Zagui-Framework/Zagui.git)
 
+###
 
+<h2 align="left">Description</h2>
 
+###
 
-# Proyecto Principal en el que estoy trabajando
-## [Zagui Test Automation Framework]([https://github.com/zagui-master](https://github.com/Zagui-Framework/Zagui)) 
-Este proyecto es un  framework de automatización de pruebas de software, el cual integra, Selenium WebDriver, JUnit 5 y BDD.
+<h4 align="left">Zagui is an advanced test automation framework designed for seamless web interaction using robust technologies like Selenium, Cucumber, and JUnit. It leverages the Page Object Model pattern to enhance test maintainability and scalability. Zagui offers a suite of customized methods that simplify web element interactions, ensuring efficient and reliable test automation.</h4>
 
-## Descripción
-Este repositorio contiene una configuración estructurada para la automatización con Selenium WebDriver utilizando JUnit 5. Incluye configuraciones, utilidades y ejemplos de pruebas para ayudarte a comenzar con la automatización de pruebas.
+###
 
-## Características
-- Configuración de Selenium WebDriver lista para usar.
-- Ejemplos de casos de prueba utilizando JUnit 5.
-- Utilidades para tareas comunes de automatización.
-- Framework fácilmente ampliable y mantenible.
+<h2 align="left">Key Features:</h2>
 
-## Instalación
+###
 
-Clona el repositorio e impórtalo en tu IDE como un proyecto Gradle.
+<h5 align="left">● Selenium Integration: Seamlessly interacts with web browsers for automated testing.</h5>
 
-## Contribuciones
+###
 
-¡Las contribuciones son bienvenidas! Haz un fork del repositorio y envía pull requests con mejoras.
+<h5 align="left">● Cucumber Support: Enables behavior-driven development (BDD) through Cucumber's feature files and step definitions.</h5>
 
-## Información de Contacto
+###
 
-**Nombre:** Sergio Alejandro López Jiménez  
-**Profesión:** QA Automation | Softwre Dev  
-**Teléfono:** +57 3003659739  
-**Email:** [sergio.alejandro5741@gmail.com](mailto:sergio.alejandro5741@gmail.com)  
-**LinkedIn:** [Sergio Alejandro López Jiménez](https://www.linkedin.com/in/sergio-lopez-a39178262/)  
+<h5 align="left">● JUnit Compatibility: Integrates with JUnit for robust test execution and reporting.</h5>
 
+###
 
+<h5 align="left">● Page Object Model (POM): Promotes code reusability and maintainability by modeling web pages as objects.</h5>
+
+###
+
+<h5 align="left">● Customized Methods: Provides a library of tailored methods for enhanced web element interaction, making test scripting more efficient.</h5>
+
+###
+
+<h5 align="left">● Cross-Browser Testing: Supports testing across different web browsers to ensure compatibility.</h5>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sergio-lopez-a39178262/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/573003659739?text= Hola, Sergio. Espero que estés bien." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:sergio.alejandro5741@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
