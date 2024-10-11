@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">QA  Automation & Software Dev</h2>
+<h2 align="center"> QA Analyst , QA  Automation & Software Dev</h2>
 
 ###
 
