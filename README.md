@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Sergio, especialista en automatización de de pruebas y desarrollo de software, con más de 2 años de experiencia creando soluciones de automatización escalables y eficientes. Mi trabajo se centra en diseñar e implementar estrategias robustas de automatización de pruebas utilizando tecnologías de vanguardia como Selenium, Playwright, Karate, JUnit, Cucumber y SQL, lo que me permite ofrecer soluciones de alta calidad para entornos web y móviles.
+<p align="left">¡Hola! Soy Sergio, especialista en automatización de pruebas y desarrollo de software, con más de 2 años de experiencia creando soluciones de automatización escalables y eficientes. Mi trabajo se centra en diseñar e implementar estrategias robustas de automatización de pruebas utilizando tecnologías de vanguardia como Selenium, Playwright, Karate, JUnit, Cucumber y SQL, lo que me permite ofrecer soluciones de alta calidad para entornos web y móviles.
 
 Gracias a mi experiencia como Desarrollador de Software, tengo una ventaja única para integrar buenas prácticas de desarrollo en mis proyectos de automatización, mejorando la mantenibilidad y escalabilidad de las soluciones. Además, cuento con habilidades en desarrollo web con JavaScript, TypeScript, HTML, CSS y Figma, lo que me permite conectar de manera eficiente el mundo del desarrollo con el de las pruebas.
 
