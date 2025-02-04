@@ -41,13 +41,13 @@
 </div>
 
 ###
+<h2 align="left"></h2>
 
 <h2 align="left">Framework que desarrolle para automatizar pruebas</h2>
 
 ###
 
-[Zagui  Framework](https://github.com/Zagui-Framework/Zagui.git)
-
+## [Zagui  Framework](https://github.com/Zagui-Framework/Zagui.git)
 
 ###
 
@@ -72,8 +72,13 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   <a href="https://www.linkedin.com/in/sergio-lopez-a39178262/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+<a href="mailto:sergio.alejandro5741@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
 </div>
 
 ###
