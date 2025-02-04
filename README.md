@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">QA Automation con más de 2 años de experiencia creando Frameworks de automatización de pruebas eficientes y escalables para entornos web y móviles. Como freelance, he adquirido experiencia en una amplia gama de tecnologías como Selenium, Playwright, Karate, JUnit, Cucumber y SQL, lo que me permite ofrecer soluciones de prueba automatizadas de alta calidad.<br><br>Mi experiencia como Desarrollador/a de Software me otorga una ventaja única para integrar buenas prácticas de desarrollo en mis proyectos de automatización, haciéndolos más robustos y fáciles de mantener. Además, cuento con habilidades en desarrollo web con JavaScript, TypeScript, HTML, CSS y Figma, lo que me permite conectar eficazmente el mundo del desarrollo con el de las pruebas.<br><br>Me apasiona utilizar tecnologías de vanguardia para mejorar la calidad y eficiencia del software. Reconocido por mis habilidades para resolver problemas, mi capacidad de comunicación y mi enfoque colaborativo, estoy listo para aportar a proyectos impactantes y trabajar dentro de equipos dinámicos.</p>
+<p align="left">¡Hola! Soy Sergio, especialista en automatización de de pruebas y desarrollo de software, con más de 2 años de experiencia creando soluciones de automatización escalables y eficientes. Mi trabajo se centra en diseñar e implementar estrategias robustas de automatización de pruebas utilizando tecnologías de vanguardia como Selenium, Playwright, Karate, JUnit, Cucumber y SQL, lo que me permite ofrecer soluciones de alta calidad para entornos web y móviles.
+
+Gracias a mi experiencia como Desarrollador de Software, tengo una ventaja única para integrar buenas prácticas de desarrollo en mis proyectos de automatización, mejorando la mantenibilidad y escalabilidad de las soluciones. Además, cuento con habilidades en desarrollo web con JavaScript, TypeScript, HTML, CSS y Figma, lo que me permite conectar de manera eficiente el mundo del desarrollo con el de las pruebas.
+
+Me apasiona mejorar los procesos de prueba, integrar la automatización de manera fluida en los flujos de trabajo de desarrollo y explorar nuevas herramientas y metodologías que optimicen el rendimiento del software. Reconocido por mis habilidades de resolución de problemas, mi capacidad para comunicarme de manera efectiva y mi enfoque colaborativo, estoy listo para aportar valor a proyectos innovadores y trabajar en equipos dinámicos.</p>
 
 ###
 
