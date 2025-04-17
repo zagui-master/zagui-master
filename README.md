@@ -1,88 +1,80 @@
-<h1 align="center">Sergio López | Zagui Master</h1>
+<h1 align="center">👋 Hola, soy Sergio López — Zagui Master ⚡</h1>
 
-###
+<h3 align="center">QA Automation | Software Developer</h3>
 
-<h2 align="center">QA Automation & Software Dev</h2>
+<p align="center">
+Soy un apasionado por la automatización y el desarrollo de software con más de <strong>4 años de experiencia en la industria Tech</strong> creando soluciones robustas, escalables y eficientes desde cero.
+</p>
 
-###
+---
 
-<h2 align="left">Quien soy</h2>
+### 🧠 ¿Qué puedo hacer?
 
-###
+- 🧪 Crear **frameworks de automatización personalizados** desde cero.
+- 🔍 Automatizar pruebas E2E con **Selenium** y **Playwright**.
+- 🌱 Diseñar y mantener pruebas BDD con **Cucumber**.
+- 🧬 Implementar pruebas RESTful con **Karate**.
+- 🛠️ Integrar pruebas con **JUnit** y arquitecturas CI/CD.
+- 💾 Trabajar con bases de datos relacionales como **MySQL**.
 
-<p align="left">¡Hola! Soy Sergio, especialista en automatización de pruebas y desarrollo de software, con más de 2 años de experiencia creando soluciones de automatización escalables y eficientes. Mi trabajo se centra en diseñar e implementar estrategias robustas de automatización de pruebas utilizando tecnologías de vanguardia como Selenium, Playwright, Karate, JUnit, Cucumber y SQL, lo que me permite ofrecer soluciones de alta calidad para entornos web y móviles.
+---
 
-Gracias a mi experiencia como Desarrollador de Software, tengo una ventaja única para integrar buenas prácticas de desarrollo en mis proyectos de automatización, mejorando la mantenibilidad y escalabilidad de las soluciones. Además, cuento con habilidades en desarrollo web con JavaScript, TypeScript, HTML, CSS y Figma, lo que me permite conectar de manera eficiente el mundo del desarrollo con el de las pruebas.
+### 💻 Tecnologías que manejo
 
-Me apasiona mejorar los procesos de prueba, integrar la automatización de manera fluida en los flujos de trabajo de desarrollo y explorar nuevas herramientas y metodologías que optimicen el rendimiento del software. Reconocido por mis habilidades de resolución de problemas, mi capacidad para comunicarme de manera efectiva y mi enfoque colaborativo, estoy listo para aportar valor a proyectos innovadores y trabajar en equipos dinámicos.</p>
+#### 🧑‍💻 Lenguajes y Dev Tools 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+ </p>
 
-###
+#### 🧪 Testing & Automatización  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
+  <img src="https://karatelabs.github.io/img/karate-logo.svg" title="Karate" alt="Karate" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+</p>
 
-<h2 align="left">Tecnologías y herramientas</h2>
+---
 
-###
+### 🚀 ¿Por qué trabajar conmigo?
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+Autodidacta, curioso y proactivo. Me gusta entregar código limpio, reutilizable y bien documentado. Siempre estoy buscando formas de optimizar, automatizar y aprender algo nuevo.
 
-###
-<h2 align="left"></h2>
+---
 
-<h2 align="left">Framework que desarrolle para automatizar pruebas</h2>
+### 📬 ¿Charlamos?
 
-###
+- ✉️ **sergio.alejandro5741@gmail.com**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/sergio-lopez-a39178262/)**
+- 📁 **[Portafolio o Proyecto Destacado](https://github.com/Zagui-Framework/Zagui)**
 
-## [Zagui  Framework](https://github.com/Zagui-Framework/Zagui.git)
+---
+---
 
-###
+## 🚀 My GitHub Stats
 
-<h2 align="left">Descripcion del Zagui Framework</h2>
+<div align="center">
 
-###
-
-<p align="left">Zagui es un avanzado marco de automatización de pruebas diseñado para una interacción web fluida, utilizando tecnologías robustas como Selenium, Cucumber y JUnit. Aprovecha el patrón Page Object Model (POM) para mejorar la mantenibilidad y escalabilidad de las pruebas. Zagui ofrece un conjunto de métodos personalizados que simplifican las interacciones con los elementos web, garantizando una automatización de pruebas eficiente y confiable.</p>
-
-###
-
-<h2 align="left">Características principales</h2>
-
-###
-
-<p align="left">Integración con Selenium: Interactúa de manera fluida con los navegadores web para realizar pruebas automatizadas.<br><br>Soporte para Cucumber: Permite el desarrollo guiado por comportamientos (BDD) a través de los archivos de características y definiciones de pasos de Cucumber.<br><br>Compatibilidad con JUnit: Se integra con JUnit para una ejecución robusta de pruebas y generación de informes detallados.<br><br>Page Object Model (POM): Fomenta la reutilización y mantenibilidad del código mediante la representación de las páginas web como objetos.<br><br>Métodos personalizados: Proporciona una librería de métodos adaptados para mejorar la interacción con los elementos web, haciendo más eficiente la creación de scripts de prueba.</p>
-
-###
-
-<h2 align="left">Mis redes sociales</h2>
-
-###
-
-<div align="left">
-   <a href="https://www.linkedin.com/in/sergio-lopez-a39178262/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <!-- 🏆 Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zagui-master&theme=radical&no-frame=true&margin-w=15" alt="zagui-master trophies" />
   </a>
-<a href="mailto:sergio.alejandro5741@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+  <!-- 🔥 Streak -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=zagui-master&theme=tokyonight&background=000000&ring=7C3AED&fire=F472B6&currStreakLabel=34D399" width="600" alt="zagui-master streak"/>
+
+  <!-- 📊 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zagui-master&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&title_color=7C3AED&text_color=F9FAFB" width="600" alt="zagui-master top langs"/>
 
 </div>
 
-###
+---
+
+<p align="center"><i>“No es magia, es automatización.”</i> — <strong>Zagui Master 🧙‍♂️</strong></p>
