@@ -11,10 +11,9 @@ Soy un apasionado por la automatización y el desarrollo de software con más de
 ### 🧠 ¿Qué puedo hacer?
 
 - 🧪 Crear **frameworks de automatización personalizados** desde cero.
-- 🔍 Automatizar pruebas E2E con **Selenium** y **Playwright**.
+- 🔍 Automatizar pruebas E2E con **Playwright** y **Selenium**.
 - 🌱 Diseñar y mantener pruebas BDD con **Cucumber**.
-- 🧬 Implementar pruebas RESTful con **Karate**.
-- 🛠️ Integrar pruebas con **JUnit** y arquitecturas CI/CD.
+- 🧬 Implementar pruebas RESTful con **Karate DSL**.
 - 💾 Trabajar con bases de datos relacionales como **MySQL**.
 
 ---
